@@ -249,7 +249,7 @@ We welcome contributions!
 
 ## 👥 Team
 
-* **Vikash Kushwaha** — Full Stack Developer
+* **Surya Manickam** — Full Stack Developer
 
 ---
 
